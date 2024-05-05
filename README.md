@@ -2,7 +2,9 @@
 
 ## Description
 
-The goal of the project is to discuss how efficient the company's customer support is. We realize this from THREE aspects.
+Infographics use diagrams and text to highlight the underlying relationships in the data and tell the interesting stories to customers.
+
+> The goal of the project is to discuss how efficient the company's customer support is. We realize this from THREE aspects.
 
 - __Are the customers satisfied?__
 
